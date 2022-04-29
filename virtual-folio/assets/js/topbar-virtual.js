@@ -40,7 +40,7 @@ $(function() {
   });
   
   backTop.click(function() {
-    $('index.html').animate({
+    $('html').animate({
       scrollTop: 0
     }, 1000);
     return false;
@@ -190,7 +190,7 @@ $(document).ready(function() {
     var target = $(this).data('target') ? $(this).data('target') : $(this).attr('href');
     
     self.click(function(e) {
-      $('body, index.html').animate({ scrollTop: $(target).offset().top }, 1000);
+      $('body, html').animate({ scrollTop: $(target).offset().top }, 1000);
       return false;
     });
   });
