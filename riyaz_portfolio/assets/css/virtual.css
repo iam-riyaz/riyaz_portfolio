@@ -195,6 +195,9 @@ a:hover, a:active {
     cursor: pointer;
     box-shadow: none;
 }
+.toGetCode{
+    border: 1px solid black;
+}
 
 .btn-fab:focus,
 .btn-fab:active {
