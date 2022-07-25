@@ -202,8 +202,11 @@ a:hover, a:active {
     border: 1px solid black;
 }
 
-.img-caption{
+/* .img-caption{
     width: 100%;
+} */
+.img-place{
+    height: 300px;
 }
 
 
