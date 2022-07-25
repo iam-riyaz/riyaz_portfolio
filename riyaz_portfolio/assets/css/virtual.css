@@ -212,6 +212,8 @@ a:hover, a:active {
   padding-bottom: 130px;
 }
 
+.row{ display:  flex;
+  justify-content: space-around;}
 
 
 
