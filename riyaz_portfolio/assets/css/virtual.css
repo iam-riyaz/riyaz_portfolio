@@ -206,6 +206,7 @@ a:hover, a:active {
    padding: 5px;
    border-radius: 5px;
    cursor: pointer;
+   font-weight: bold;
 }
 
 /* .img-caption{
