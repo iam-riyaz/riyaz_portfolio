@@ -199,7 +199,11 @@ a:hover, a:active {
 
 /* --------------------------my classes--------------------- */
 .toGetCode{
-    border: 1px solid black;
+   margin: 3px;
+   border: none;
+   color: white;
+   background-color: orangered;
+   padding: 4px;
 }
 
 /* .img-caption{
@@ -217,7 +221,13 @@ a:hover, a:active {
 
   .grid-item{
     border: 2px solid orangered;
+    padding: 0px;
+    margin: 7px;
   }
+  /* .gridder{
+     
+    padding: 5px;
+  } */
 
 
 
