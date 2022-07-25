@@ -215,6 +215,9 @@ a:hover, a:active {
 .row{ display:  flex;
   justify-content: space-around;}
 
+  .grid-item{
+    border: 2px solid orangered;
+  }
 
 
 
