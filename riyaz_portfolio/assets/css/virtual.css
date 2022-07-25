@@ -195,9 +195,27 @@ a:hover, a:active {
     cursor: pointer;
     box-shadow: none;
 }
+
+
+/* --------------------------my classes--------------------- */
 .toGetCode{
     border: 1px solid black;
 }
+
+.project_box{
+    height: 250px;
+}
+
+
+
+
+
+
+
+/* -------------------------end---------------- */
+
+
+
 
 .btn-fab:focus,
 .btn-fab:active {
