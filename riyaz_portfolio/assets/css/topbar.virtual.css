@@ -326,7 +326,7 @@
 
 
 .page-client {
-  background-color: #cd5f40;
+  background-color: #ffffff;
   color: #fff;
 }
 
@@ -362,13 +362,6 @@
   -moz-transform: scale(1.2);
   transform: scale(1.2);
 }
-
-.page-client .img-place img {
-  filter: none
-}
-
-
-
 
 .page-blog {
   background-color: #fff;
