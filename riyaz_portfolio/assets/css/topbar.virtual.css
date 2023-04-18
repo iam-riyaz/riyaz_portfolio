@@ -364,12 +364,10 @@
 }
 
 .page-client .img-place img {
-  filter: grayscale(100%) brightness(2);
+  filter: none
 }
 
-.page-client .img-place:hover img {
-  filter: none;
-}
+
 
 
 .page-blog {
