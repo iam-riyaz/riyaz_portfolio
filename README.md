@@ -21,7 +21,7 @@ If you have any feedback, please reach out to us at riyazahmad.onlie@gmail.com
 ## Demo
 
 
-riyazahmad.vercel.app/
+https://riyazahmad.vercel.app/
 
 ## Author
 
