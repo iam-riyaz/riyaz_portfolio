@@ -9,7 +9,7 @@
 live link
 
 ```bash
- https://riyazahmad.netlify.app/
+ riyazahmad.vercel.app/
 ```
 
 
@@ -21,7 +21,7 @@ If you have any feedback, please reach out to us at riyazahmad.onlie@gmail.com
 ## Demo
 
 
-https://riyazahmad.netlify.app/
+riyazahmad.vercel.app/
 
 ## Author
 
