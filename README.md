@@ -15,7 +15,7 @@ live link
 
 ## Feedback
 
-If you have any feedback, please reach out to us at riyazahmad.onlie@gmail.com
+If you have any feedback, please reach out to us at riyazahmad.online@gmail.com
 
 
 ## Demo
